@@ -1,0 +1,19 @@
+#main-page {
+  background-color: rosybrown;
+}
+
+.text {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: powderblue;
+}
+
+#input {
+  border: 5px solid black;
+  color: hotpink;
+}
+
+#button {
+  border: 5px groove thistle;
+  background-color: darkblue;
+  color: aliceblue;
+}
