@@ -1,4 +1,4 @@
-// This code takes what age the user inputs and compares it to set values to decide what kind of movie they can see alone. 
+// This code takes what age the user inputs and compares it to set values to decide what kind of movie they can see alone.
 let age = 0
 
 document.getElementById('button').addEventListener('click', movieCalculation)
